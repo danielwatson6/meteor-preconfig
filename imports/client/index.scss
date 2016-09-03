@@ -1,0 +1,9 @@
+// Load all SCSS files from layouts and modules here
+@import "./modules/posts/posts.scss";
+
+
+//=== GLOBAL STYLES ===//
+
+h1, p {
+  font-family: 'Arial';
+}
